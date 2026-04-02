@@ -6,4 +6,4 @@ I am an undergrad in Computer Science at Chico State
 
 # UX Journal
 
-![Healight Washer Button](j01/)
+[Healight Washer Button](j01/)
