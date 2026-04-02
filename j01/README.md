@@ -1,3 +1,5 @@
+# UX Journal #1
+
 Last year, I got a different car after my last one was totaled by my brother. I was looking for a car for a little bit, but I eventually ended up getting a 2004 Lexus RX 330. Right away, I noticed there were way more buttons in this car compared to my old 2001 Toyota Tundra, which I guess is expected.At first, I was actually pretty impressed by all the features. A lot of them were easy to understand, like the automatic windows, the automatic trunk opening, and the seat warmer knobs. Even though I was a little confused about why the seat warmer knobs could be pushed in without anything happening, most of the controls still made sense pretty quickly.
 
 ![Front of Car](assets/front.jpeg)
@@ -13,7 +15,7 @@ This is where the idea of **affordances** comes in, which means how a design sug
 
 Later on, I got curious again and ended up looking it up to see what the button actually did. After doing a little research, I found out it was supposed to spray washer fluid onto the headlights. I couldn’t tell whether it was working or not  because I would have to press it and then run out the car to see if it was working.  To make sure, I tried pressing it again while having someone stand outside the car and watch. That’s when I finally realized it actually sprays the headlights. I didn’t notice it before because I can’t see the front of the car while driving, and also because there was a leak in the washer fluid reservoir, so sometimes nothing would even come out when I pressed it.
 
-![Headlights](assets/lights.jpeg)
+![Headlights](assets/light.jpeg)
 ![The actual sprayer](assets/spray.jpeg)
 
 This experience relates to the **feedback principle**, which means a system should clearly show the user what happened after an action. In this case, the feedback was very weak. From inside the car, there was no clear indication that anything had happened, so it felt like the button didn’t work at all.
